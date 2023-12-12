@@ -9,9 +9,7 @@ li {
     font-weight: normal;
 }
 p {
-    color: dimgrey;
-    font-weight: bold;
-    font-size: 25px;
+    font-size: 15px;
 }
 a {
      color: tomato;
@@ -33,6 +31,9 @@ a:hover {
 
 .header {
     text-align: center;
+    color: dimgrey;
+    font-weight: bold;
+    font-size: 25px;
 }
 
 .footer{

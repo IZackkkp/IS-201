@@ -30,3 +30,7 @@ a:hover {
     font-size: 15px;
     text-decoration: underline;
 }
+
+.header {
+    text-align: center;
+}

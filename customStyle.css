@@ -34,3 +34,7 @@ a:hover {
 .header {
     text-align: center;
 }
+
+.footer{
+    text-align: right;
+}
